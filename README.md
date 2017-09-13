@@ -1,2 +1,2 @@
 # IGME-230
-IGME-230 Web Development
+Most 230 Projects will be created and updated here.
