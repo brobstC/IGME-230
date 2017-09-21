@@ -48,9 +48,6 @@ The player needs to learn what power-ups to use to neutralize certain environmen
 <img src="https://people.rit.edu/ctb4332/230/media/enviro_bombard_mock_01.png" alt="General Layout" width="40%">
 <img src="https://people.rit.edu/ctb4332/230/media/enviro_bombard_mock_02.png" alt="Power-ups and Hazards" width="40%">
 
-## Other
-TBD
-
 ## About the developer
 Christian Brobst - 2nd Year Game Design and Development Major at RIT; Experienced programmer and amateur designer, heavily interested in design
 
